@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jason-siu.github.io/posts/first/</loc>
+    <loc>https://jason-siu.github.io/posts/2024/03/first/</loc>
     <lastmod>2024-03-07T00:28:44-06:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/</loc>
@@ -18,5 +18,7 @@
     <lastmod>2024-03-07T00:28:44-06:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/categories/</loc>
+  </url><url>
+    <loc>https://jason-siu.github.io/series/</loc>
   </url>
 </urlset>
