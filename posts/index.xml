@@ -5,8 +5,29 @@
         <description>Recent content in Posts on Hi, I&#39;m Jason Siu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 07 Mar 2024 00:28:44 -0600</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 04:14:50 -0600</lastBuildDate>
         <atom:link href="https://jason-siu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>THM: Basic Pentesting CTF Writeup</title>
+            <link>https://jason-siu.github.io/posts/2024/03/thm-basic-pentesting-ctf-writeup/</link>
+            <pubDate>Thu, 07 Mar 2024 04:14:50 -0600</pubDate>
+            
+            <guid>https://jason-siu.github.io/posts/2024/03/thm-basic-pentesting-ctf-writeup/</guid>
+            <description>Hello everyone!
+This is my first official writeup, I wanted to make it as similar to a real penetration test providing documentation in sections. Hope you enjoy reading.
+This writeup comes from a CTF called Basic Pentesting by ashu.
+You can view the PDF writeup here.
+I will make a video on this soon. Enjoy
+&amp;ndash; Jason</description>
+            <content type="html"><![CDATA[<p>Hello everyone!</p>
+<p>This is my first official writeup, I wanted to make it as similar to a real penetration test providing documentation in sections. Hope you enjoy reading.</p>
+<p>This writeup comes from a CTF called <a href="https://tryhackme.com/r/room/basicpentestingjt">Basic Pentesting by ashu.</a></p>
+<p>You can <a href="/basicpentest.pdf">view the PDF writeup here.</a></p>
+<p>I will make a video on this soon. Enjoy</p>
+<p>&ndash; Jason</p>
+]]></content>
+        </item>
         
         <item>
             <title>First</title>
@@ -16,10 +37,12 @@
             <guid>https://jason-siu.github.io/posts/2024/03/first/</guid>
             <description>Hello this is my first post!
 Will be posting official writeups and guides here!
+Stay tuned&amp;hellip;
 Thanks
 Jason </description>
             <content type="html"><![CDATA[<p>Hello this is my first post!</p>
 <p>Will be posting official writeups and guides here!</p>
+<p>Stay tuned&hellip;</p>
 <p>Thanks</p>
 <ul>
 <li>Jason</li>
