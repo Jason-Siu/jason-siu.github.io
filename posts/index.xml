@@ -5,8 +5,33 @@
         <description>Recent content in Posts on Hi, I&#39;m Jason Siu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 07 Mar 2024 04:14:50 -0600</lastBuildDate>
+        <lastBuildDate>Sat, 09 Mar 2024 22:05:11 -0600</lastBuildDate>
         <atom:link href="https://jason-siu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>THM: BoilerCTF Writeup</title>
+            <link>https://jason-siu.github.io/posts/2024/03/thm-boilerctf-writeup/</link>
+            <pubDate>Sat, 09 Mar 2024 22:05:11 -0600</pubDate>
+            
+            <guid>https://jason-siu.github.io/posts/2024/03/thm-boilerctf-writeup/</guid>
+            <description>Hello everyone!
+Today&amp;rsquo;s post will be about a writeup that I made for BoilerCTF on TryHackMe.
+This is a medium level CTF, just due to the sheer amount of rabbit holes there are.
+The link to the CTF is here.
+You can read my PDF writeup here.
+I will make a video walkthrough on this CTF soon.
+Enjoy!
+&amp;ndash; Jason</description>
+            <content type="html"><![CDATA[<p>Hello everyone!</p>
+<p>Today&rsquo;s post will be about a writeup that I made for BoilerCTF on TryHackMe.</p>
+<p>This is a medium level CTF, just due to the sheer amount of rabbit holes there are.</p>
+<p>The <a href="https://tryhackme.com/room/boilerctf2">link to the CTF is here.</a></p>
+<p>You can read <a href="/boilerctf.pdf">my PDF writeup here.</a></p>
+<p>I will make a video walkthrough on this CTF soon.</p>
+<p>Enjoy!</p>
+<p>&ndash; Jason</p>
+]]></content>
+        </item>
         
         <item>
             <title>THM: Basic Pentesting CTF Writeup</title>
