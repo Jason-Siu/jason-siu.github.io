@@ -2,28 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jason-siu.github.io/tags/definitely-not-chill/</loc>
+    <lastmod>2024-03-10T00:38:18-06:00</lastmod>
+  </url><url>
     <loc>https://jason-siu.github.io/</loc>
-    <lastmod>2024-03-09T22:05:11-06:00</lastmod>
+    <lastmod>2024-03-10T00:38:18-06:00</lastmod>
+  </url><url>
+    <loc>https://jason-siu.github.io/tags/penetration-testing/</loc>
+    <lastmod>2024-03-10T00:38:18-06:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/posts/</loc>
-    <lastmod>2024-03-09T22:05:11-06:00</lastmod>
+    <lastmod>2024-03-10T00:38:18-06:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/tags/</loc>
+    <lastmod>2024-03-10T00:38:18-06:00</lastmod>
+  </url><url>
+    <loc>https://jason-siu.github.io/posts/2024/03/thm-chillhack-ctf-writeup/</loc>
+    <lastmod>2024-03-10T00:38:18-06:00</lastmod>
+  </url><url>
+    <loc>https://jason-siu.github.io/tags/tryhackme/</loc>
+    <lastmod>2024-03-10T00:38:18-06:00</lastmod>
+  </url><url>
+    <loc>https://jason-siu.github.io/tags/boiler-room/</loc>
     <lastmod>2024-03-09T22:05:11-06:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/posts/2024/03/thm-boilerctf-writeup/</loc>
     <lastmod>2024-03-09T22:05:11-06:00</lastmod>
   </url><url>
-    <loc>https://jason-siu.github.io/tags/untagged/</loc>
-    <lastmod>2024-03-09T22:05:11-06:00</lastmod>
-  </url><url>
-    <loc>https://jason-siu.github.io/tags/penetration-testing/</loc>
-    <lastmod>2024-03-07T04:14:50-06:00</lastmod>
-  </url><url>
     <loc>https://jason-siu.github.io/posts/2024/03/thm-basic-pentesting-ctf-writeup/</loc>
     <lastmod>2024-03-07T04:14:50-06:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/posts/2024/03/first/</loc>
+    <lastmod>2024-03-07T00:28:44-06:00</lastmod>
+  </url><url>
+    <loc>https://jason-siu.github.io/tags/untagged/</loc>
     <lastmod>2024-03-07T00:28:44-06:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/categories/</loc>

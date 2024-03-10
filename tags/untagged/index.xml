@@ -6,15 +6,8 @@
     <description>Recent content in Untagged on Hi, I&#39;m Jason Siu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Mar 2024 22:05:11 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 00:28:44 -0600</lastBuildDate>
     <atom:link href="https://jason-siu.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>THM: BoilerCTF Writeup</title>
-      <link>https://jason-siu.github.io/posts/2024/03/thm-boilerctf-writeup/</link>
-      <pubDate>Sat, 09 Mar 2024 22:05:11 -0600</pubDate>
-      <guid>https://jason-siu.github.io/posts/2024/03/thm-boilerctf-writeup/</guid>
-      <description>Hello everyone!&#xA;Today&amp;rsquo;s post will be about a writeup that I made for BoilerCTF on TryHackMe.&#xA;This is a medium level CTF, just due to the sheer amount of rabbit holes there are.&#xA;The link to the CTF is here.&#xA;You can read my PDF writeup here.&#xA;I will make a video walkthrough on this CTF soon.&#xA;Enjoy!&#xA;&amp;ndash; Jason</description>
-    </item>
     <item>
       <title>First</title>
       <link>https://jason-siu.github.io/posts/2024/03/first/</link>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi, I&#39;m Jason Siu</title>
-    <link>https://jason-siu.github.io/</link>
-    <description>Recent content on Hi, I&#39;m Jason Siu</description>
+    <title>Tryhackme on Hi, I&#39;m Jason Siu</title>
+    <link>https://jason-siu.github.io/tags/tryhackme/</link>
+    <description>Recent content in Tryhackme on Hi, I&#39;m Jason Siu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 Mar 2024 00:38:18 -0600</lastBuildDate>
-    <atom:link href="https://jason-siu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jason-siu.github.io/tags/tryhackme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>THM: Chillhack CTF Writeup</title>
       <link>https://jason-siu.github.io/posts/2024/03/thm-chillhack-ctf-writeup/</link>
@@ -28,13 +28,6 @@
       <pubDate>Thu, 07 Mar 2024 04:14:50 -0600</pubDate>
       <guid>https://jason-siu.github.io/posts/2024/03/thm-basic-pentesting-ctf-writeup/</guid>
       <description>Hello everyone!&#xA;This is my first official writeup, I wanted to make it as similar to a real penetration test providing documentation in sections. Hope you enjoy reading.&#xA;This writeup comes from a CTF called Basic Pentesting by ashu.&#xA;You can view the PDF writeup here.&#xA;I will make a video on this soon. Enjoy&#xA;&amp;ndash; Jason</description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>https://jason-siu.github.io/posts/2024/03/first/</link>
-      <pubDate>Thu, 07 Mar 2024 00:28:44 -0600</pubDate>
-      <guid>https://jason-siu.github.io/posts/2024/03/first/</guid>
-      <description>Hello this is my first post!&#xA;Will be posting official writeups and guides here!&#xA;Stay tuned&amp;hellip;&#xA;Thanks&#xA;Jason </description>
     </item>
   </channel>
 </rss>

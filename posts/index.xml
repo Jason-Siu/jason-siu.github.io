@@ -5,8 +5,30 @@
         <description>Recent content in Posts on Hi, I&#39;m Jason Siu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 09 Mar 2024 22:05:11 -0600</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 00:38:18 -0600</lastBuildDate>
         <atom:link href="https://jason-siu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>THM: Chillhack CTF Writeup</title>
+            <link>https://jason-siu.github.io/posts/2024/03/thm-chillhack-ctf-writeup/</link>
+            <pubDate>Sun, 10 Mar 2024 00:38:18 -0600</pubDate>
+            
+            <guid>https://jason-siu.github.io/posts/2024/03/thm-chillhack-ctf-writeup/</guid>
+            <description>Hello!
+Once again, today we have another CTF writeup, yet again.
+Today&amp;rsquo;s CTF will be Chillhack from TryHackMe, but despite the title, it&amp;rsquo;s anything but chill.
+It involves the use of multiple techniques, such as reverse shell, remote code execution bypassing, steganography, horizonal escalation, code analysis and more. It&amp;rsquo;s pretty involved.
+You can read my PDF writeup here.
+Thanks for reading, &amp;ndash; Jason</description>
+            <content type="html"><![CDATA[<p>Hello!</p>
+<p>Once again, today we have another CTF writeup, yet again.</p>
+<p>Today&rsquo;s CTF will be <a href="https://tryhackme.com/room/chillhack">Chillhack from TryHackMe</a>, but despite the title, it&rsquo;s anything but chill.</p>
+<p>It involves the use of multiple techniques, such as reverse shell, remote code execution bypassing, steganography, horizonal escalation, code analysis and more. It&rsquo;s pretty involved.</p>
+<p>You can read <a href="/chillhack.pdf">my PDF writeup here.</a></p>
+<p>Thanks for reading,
+&ndash; Jason</p>
+]]></content>
+        </item>
         
         <item>
             <title>THM: BoilerCTF Writeup</title>
