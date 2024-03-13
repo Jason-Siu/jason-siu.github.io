@@ -65,13 +65,16 @@ Enjoy!
 This is my first official writeup, I wanted to make it as similar to a real penetration test providing documentation in sections. Hope you enjoy reading.
 This writeup comes from a CTF called Basic Pentesting by ashu.
 You can view the PDF writeup here.
-I will make a video on this soon. Enjoy
 &amp;ndash; Jason</description>
             <content type="html"><![CDATA[<p>Hello everyone!</p>
 <p>This is my first official writeup, I wanted to make it as similar to a real penetration test providing documentation in sections. Hope you enjoy reading.</p>
 <p>This writeup comes from a CTF called <a href="https://tryhackme.com/r/room/basicpentestingjt">Basic Pentesting by ashu.</a></p>
 <p>You can <a href="/basicpentest.pdf">view the PDF writeup here.</a></p>
-<p>I will make a video on this soon. Enjoy</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/fc9QT1R-voU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 <p>&ndash; Jason</p>
 ]]></content>
         </item>
