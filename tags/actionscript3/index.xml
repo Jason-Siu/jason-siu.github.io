@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actionscript3 on Hi, I&#39;m Jason Siu</title>
+    <link>https://jason-siu.github.io/tags/actionscript3/</link>
+    <description>Recent content in Actionscript3 on Hi, I&#39;m Jason Siu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Mar 2024 16:19:57 -0500</lastBuildDate>
+    <atom:link href="https://jason-siu.github.io/tags/actionscript3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Hack Any Flash Game</title>
+      <link>https://jason-siu.github.io/posts/2024/03/how-to-hack-any-flash-game/</link>
+      <pubDate>Wed, 13 Mar 2024 16:19:57 -0500</pubDate>
+      <guid>https://jason-siu.github.io/posts/2024/03/how-to-hack-any-flash-game/</guid>
+      <description>Hey everyone, I&amp;rsquo;ve made a video on how to hack flash games.&#xA;I personally used to play flash games a lot when I was a kid, and this was my introductory to reverse engineering and cybersecurity in general.&#xA;Hope you enjoy.&#xA;If you have any questions, feel free to reach out.&#xA;Timecodes:&#xA;0:00 - Start&#xA;0:40 - Requirements&#xA;1:27- Download the Flash Game&#xA;3:25 - Unlimited Health Hack&#xA;10:27 - Testing Hack #1</description>
+    </item>
+  </channel>
+</rss>
