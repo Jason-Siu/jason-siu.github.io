@@ -5,8 +5,31 @@
         <description>Recent content in Posts on Hi, I&#39;m Jason Siu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 13 Mar 2024 16:19:57 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 02:30:18 -0500</lastBuildDate>
         <atom:link href="https://jason-siu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>THM: Archangel CTF Writeup</title>
+            <link>https://jason-siu.github.io/posts/2024/03/thm-archangel-ctf-writeup/</link>
+            <pubDate>Tue, 19 Mar 2024 02:30:18 -0500</pubDate>
+            
+            <guid>https://jason-siu.github.io/posts/2024/03/thm-archangel-ctf-writeup/</guid>
+            <description>Hello everyone,
+Today&amp;rsquo;s writeup will be about Archangel from TryHackMe.
+This is a tough CTF challenge involving LFI, Apache Log Poisoning, and editting system commands.
+However, because it is so unique, it&amp;rsquo;s a good learning experience.
+You can view my PDF of this writeup here.
+Hope you guys enjoy and learn something.
+&amp;ndash; Jason</description>
+            <content type="html"><![CDATA[<p>Hello everyone,</p>
+<p>Today&rsquo;s writeup will be about <a href="https://tryhackme.com/room/archangel">Archangel from TryHackMe.</a></p>
+<p>This is a tough CTF challenge involving LFI, Apache Log Poisoning, and editting system commands.</p>
+<p>However, because it is so unique, it&rsquo;s a good learning experience.</p>
+<p>You can view my <a href="/archangel.pdf">PDF of this writeup here.</a></p>
+<p>Hope you guys enjoy and learn something.</p>
+<p>&ndash; Jason</p>
+]]></content>
+        </item>
         
         <item>
             <title>How To Hack Any Flash Game</title>

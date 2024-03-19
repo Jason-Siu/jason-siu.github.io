@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lfi on Hi, I&#39;m Jason Siu</title>
+    <link>https://jason-siu.github.io/tags/lfi/</link>
+    <description>Recent content in Lfi on Hi, I&#39;m Jason Siu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Mar 2024 02:30:18 -0500</lastBuildDate>
+    <atom:link href="https://jason-siu.github.io/tags/lfi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THM: Archangel CTF Writeup</title>
+      <link>https://jason-siu.github.io/posts/2024/03/thm-archangel-ctf-writeup/</link>
+      <pubDate>Tue, 19 Mar 2024 02:30:18 -0500</pubDate>
+      <guid>https://jason-siu.github.io/posts/2024/03/thm-archangel-ctf-writeup/</guid>
+      <description>Hello everyone,&#xA;Today&amp;rsquo;s writeup will be about Archangel from TryHackMe.&#xA;This is a tough CTF challenge involving LFI, Apache Log Poisoning, and editting system commands.&#xA;However, because it is so unique, it&amp;rsquo;s a good learning experience.&#xA;You can view my PDF of this writeup here.&#xA;Hope you guys enjoy and learn something.&#xA;&amp;ndash; Jason</description>
+    </item>
+  </channel>
+</rss>
