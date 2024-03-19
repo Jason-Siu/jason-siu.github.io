@@ -13,7 +13,7 @@
       <link>https://jason-siu.github.io/posts/2024/03/thm-archangel-ctf-writeup/</link>
       <pubDate>Tue, 19 Mar 2024 02:30:18 -0500</pubDate>
       <guid>https://jason-siu.github.io/posts/2024/03/thm-archangel-ctf-writeup/</guid>
-      <description>Hello everyone,&#xA;Today&amp;rsquo;s writeup will be about Archangel from TryHackMe.&#xA;This is a tough CTF challenge involving LFI, Apache Log Poisoning, and editting system commands.&#xA;However, because it is so unique, it&amp;rsquo;s a good learning experience.&#xA;You can view my PDF of this writeup here.&#xA;Hope you guys enjoy and learn something.&#xA;&amp;ndash; Jason</description>
+      <description>Hello everyone,&#xA;Today&amp;rsquo;s writeup will be about Archangel from TryHackMe.&#xA;This is a tough CTF challenge involving LFI, Apache Log Poisoning, and editing system commands.&#xA;However, because it is so unique, it&amp;rsquo;s a good learning experience.&#xA;You can view my PDF of this writeup here.&#xA;Hope you guys enjoy and learn something.&#xA;&amp;ndash; Jason</description>
     </item>
     <item>
       <title>THM: Chillhack CTF Writeup</title>
