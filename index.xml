@@ -16,6 +16,13 @@
       <description>Hello everyone,&#xA;Today&amp;rsquo;s writeup will be about Archangel from TryHackMe.&#xA;This is a tough CTF challenge involving LFI, Apache Log Poisoning, and editing system commands.&#xA;However, because it is so unique, it&amp;rsquo;s a good learning experience.&#xA;You can view my PDF of this writeup here.&#xA;Hope you guys enjoy and learn something.&#xA;&amp;ndash; Jason</description>
     </item>
     <item>
+      <title>Penetration Testing Presentation @ CSG: Sesame</title>
+      <link>https://jason-siu.github.io/posts/2024/03/penetration-testing-presentation-@-csg-sesame/</link>
+      <pubDate>Sat, 16 Mar 2024 03:28:19 -0500</pubDate>
+      <guid>https://jason-siu.github.io/posts/2024/03/penetration-testing-presentation-@-csg-sesame/</guid>
+      <description>Hello everyone!&#xA;This is my presentation from CSG Firetalks about my experience penetration testing into a web app called &amp;ldquo;Sesame&amp;rdquo;.&#xA;CSG officers and students there really enjoyed this presentation and I hope you will too.&#xA;This was my first real break into penetration testing and I learned a lot of things from communicating bugs, to actual penetration testing.&#xA;Have a great rest of the day, and I hope you learned something &amp;ndash; Jason</description>
+    </item>
+    <item>
       <title>How To Hack Any Flash Game</title>
       <link>https://jason-siu.github.io/posts/2024/03/how-to-hack-any-flash-game/</link>
       <pubDate>Wed, 13 Mar 2024 16:19:57 -0500</pubDate>

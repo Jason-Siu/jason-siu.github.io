@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sesame on Hi, I&#39;m Jason Siu</title>
+    <link>https://jason-siu.github.io/tags/sesame/</link>
+    <description>Recent content in Sesame on Hi, I&#39;m Jason Siu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Mar 2024 03:28:19 -0500</lastBuildDate>
+    <atom:link href="https://jason-siu.github.io/tags/sesame/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Penetration Testing Presentation @ CSG: Sesame</title>
+      <link>https://jason-siu.github.io/posts/2024/03/penetration-testing-presentation-@-csg-sesame/</link>
+      <pubDate>Sat, 16 Mar 2024 03:28:19 -0500</pubDate>
+      <guid>https://jason-siu.github.io/posts/2024/03/penetration-testing-presentation-@-csg-sesame/</guid>
+      <description>Hello everyone!&#xA;This is my presentation from CSG Firetalks about my experience penetration testing into a web app called &amp;ldquo;Sesame&amp;rdquo;.&#xA;CSG officers and students there really enjoyed this presentation and I hope you will too.&#xA;This was my first real break into penetration testing and I learned a lot of things from communicating bugs, to actual penetration testing.&#xA;Have a great rest of the day, and I hope you learned something &amp;ndash; Jason</description>
+    </item>
+  </channel>
+</rss>
