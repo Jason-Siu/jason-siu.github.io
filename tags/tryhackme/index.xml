@@ -6,8 +6,15 @@
     <description>Recent content in Tryhackme on Hi, I&#39;m Jason Siu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Mar 2024 02:30:18 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 01:10:30 -0500</lastBuildDate>
     <atom:link href="https://jason-siu.github.io/tags/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 50 United States in TryHackMe</title>
+      <link>https://jason-siu.github.io/posts/2024/04/top-50-united-states-in-tryhackme/</link>
+      <pubDate>Sun, 07 Apr 2024 01:10:30 -0500</pubDate>
+      <guid>https://jason-siu.github.io/posts/2024/04/top-50-united-states-in-tryhackme/</guid>
+      <description>Hey everyone.&#xA;Today I have an annoucement. I just randomly checked the TryHackMe monthly leaderboards.&#xA;And I&amp;rsquo;m ranked within the top 50 on April 2024 within the United States.&#xA;Everyday, I&amp;rsquo;m learning new things and I&amp;rsquo;m super excited for more in the future.&#xA;Also, I&amp;rsquo;m ahead by a single rank of 0day, the rank #1 member of TryHackMe.&#xA;Crazy.&#xA;Thanks for reading, Jason</description>
+    </item>
     <item>
       <title>THM: Archangel CTF Writeup</title>
       <link>https://jason-siu.github.io/posts/2024/03/thm-archangel-ctf-writeup/</link>
