@@ -2,14 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jason-siu.github.io/tags/cybersecurity/</loc>
+    <lastmod>2024-04-11T16:28:52-05:00</lastmod>
+  </url><url>
     <loc>https://jason-siu.github.io/</loc>
-    <lastmod>2024-04-07T01:10:30-05:00</lastmod>
+    <lastmod>2024-04-11T16:28:52-05:00</lastmod>
+  </url><url>
+    <loc>https://jason-siu.github.io/tags/hiring/</loc>
+    <lastmod>2024-04-11T16:28:52-05:00</lastmod>
+  </url><url>
+    <loc>https://jason-siu.github.io/posts/2024/04/how-i-got-a-role-as-an-application-security-analyst-at-paycom/</loc>
+    <lastmod>2024-04-11T16:28:52-05:00</lastmod>
+  </url><url>
+    <loc>https://jason-siu.github.io/tags/interview/</loc>
+    <lastmod>2024-04-11T16:28:52-05:00</lastmod>
+  </url><url>
+    <loc>https://jason-siu.github.io/tags/job-hunt/</loc>
+    <lastmod>2024-04-11T16:28:52-05:00</lastmod>
+  </url><url>
+    <loc>https://jason-siu.github.io/tags/paycom/</loc>
+    <lastmod>2024-04-11T16:28:52-05:00</lastmod>
+  </url><url>
+    <loc>https://jason-siu.github.io/tags/penetration-testing/</loc>
+    <lastmod>2024-04-11T16:28:52-05:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/posts/</loc>
-    <lastmod>2024-04-07T01:10:30-05:00</lastmod>
+    <lastmod>2024-04-11T16:28:52-05:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/tags/</loc>
-    <lastmod>2024-04-07T01:10:30-05:00</lastmod>
+    <lastmod>2024-04-11T16:28:52-05:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/posts/2024/04/top-50-united-states-in-tryhackme/</loc>
     <lastmod>2024-04-07T01:10:30-05:00</lastmod>
@@ -21,9 +42,6 @@
     <lastmod>2024-03-19T02:30:18-05:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/tags/lfi/</loc>
-    <lastmod>2024-03-19T02:30:18-05:00</lastmod>
-  </url><url>
-    <loc>https://jason-siu.github.io/tags/penetration-testing/</loc>
     <lastmod>2024-03-19T02:30:18-05:00</lastmod>
   </url><url>
     <loc>https://jason-siu.github.io/posts/2024/03/thm-archangel-ctf-writeup/</loc>

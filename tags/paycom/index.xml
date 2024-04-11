@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paycom on Hi, I&#39;m Jason Siu</title>
+    <link>https://jason-siu.github.io/tags/paycom/</link>
+    <description>Recent content in Paycom on Hi, I&#39;m Jason Siu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Apr 2024 16:28:52 -0500</lastBuildDate>
+    <atom:link href="https://jason-siu.github.io/tags/paycom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I got a role as an Application Security Analyst at Paycom</title>
+      <link>https://jason-siu.github.io/posts/2024/04/how-i-got-a-role-as-an-application-security-analyst-at-paycom/</link>
+      <pubDate>Thu, 11 Apr 2024 16:28:52 -0500</pubDate>
+      <guid>https://jason-siu.github.io/posts/2024/04/how-i-got-a-role-as-an-application-security-analyst-at-paycom/</guid>
+      <description>Introduction Hey everyone.&#xA;Hope everyone is doing good.&#xA;The job hunt in this industry is absolutely brutal. Not just in cybersecurity, but all of tech.&#xA;Things like software engineers, developers, IT, and cybersecurity - the job market is horrific as of late 2023 and early 2024. It&amp;rsquo;s so bad that even experienced veterans in the field are struggling too.&#xA;I recently accepted the role as an application security analyst at Paycom.</description>
+    </item>
+  </channel>
+</rss>

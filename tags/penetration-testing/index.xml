@@ -6,8 +6,15 @@
     <description>Recent content in Penetration Testing on Hi, I&#39;m Jason Siu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Mar 2024 02:30:18 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 16:28:52 -0500</lastBuildDate>
     <atom:link href="https://jason-siu.github.io/tags/penetration-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I got a role as an Application Security Analyst at Paycom</title>
+      <link>https://jason-siu.github.io/posts/2024/04/how-i-got-a-role-as-an-application-security-analyst-at-paycom/</link>
+      <pubDate>Thu, 11 Apr 2024 16:28:52 -0500</pubDate>
+      <guid>https://jason-siu.github.io/posts/2024/04/how-i-got-a-role-as-an-application-security-analyst-at-paycom/</guid>
+      <description>Introduction Hey everyone.&#xA;Hope everyone is doing good.&#xA;The job hunt in this industry is absolutely brutal. Not just in cybersecurity, but all of tech.&#xA;Things like software engineers, developers, IT, and cybersecurity - the job market is horrific as of late 2023 and early 2024. It&amp;rsquo;s so bad that even experienced veterans in the field are struggling too.&#xA;I recently accepted the role as an application security analyst at Paycom.</description>
+    </item>
     <item>
       <title>THM: Archangel CTF Writeup</title>
       <link>https://jason-siu.github.io/posts/2024/03/thm-archangel-ctf-writeup/</link>

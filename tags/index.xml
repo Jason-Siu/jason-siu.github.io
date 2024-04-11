@@ -6,8 +6,50 @@
     <description>Recent content in Tags on Hi, I&#39;m Jason Siu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Apr 2024 01:10:30 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 16:28:52 -0500</lastBuildDate>
     <atom:link href="https://jason-siu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://jason-siu.github.io/tags/cybersecurity/</link>
+      <pubDate>Thu, 11 Apr 2024 16:28:52 -0500</pubDate>
+      <guid>https://jason-siu.github.io/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hiring</title>
+      <link>https://jason-siu.github.io/tags/hiring/</link>
+      <pubDate>Thu, 11 Apr 2024 16:28:52 -0500</pubDate>
+      <guid>https://jason-siu.github.io/tags/hiring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interview</title>
+      <link>https://jason-siu.github.io/tags/interview/</link>
+      <pubDate>Thu, 11 Apr 2024 16:28:52 -0500</pubDate>
+      <guid>https://jason-siu.github.io/tags/interview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job Hunt</title>
+      <link>https://jason-siu.github.io/tags/job-hunt/</link>
+      <pubDate>Thu, 11 Apr 2024 16:28:52 -0500</pubDate>
+      <guid>https://jason-siu.github.io/tags/job-hunt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paycom</title>
+      <link>https://jason-siu.github.io/tags/paycom/</link>
+      <pubDate>Thu, 11 Apr 2024 16:28:52 -0500</pubDate>
+      <guid>https://jason-siu.github.io/tags/paycom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Penetration Testing</title>
+      <link>https://jason-siu.github.io/tags/penetration-testing/</link>
+      <pubDate>Thu, 11 Apr 2024 16:28:52 -0500</pubDate>
+      <guid>https://jason-siu.github.io/tags/penetration-testing/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Tryhackme</title>
       <link>https://jason-siu.github.io/tags/tryhackme/</link>
@@ -30,52 +72,10 @@
       <description></description>
     </item>
     <item>
-      <title>Penetration Testing</title>
-      <link>https://jason-siu.github.io/tags/penetration-testing/</link>
-      <pubDate>Tue, 19 Mar 2024 02:30:18 -0500</pubDate>
-      <guid>https://jason-siu.github.io/tags/penetration-testing/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Sesame</title>
       <link>https://jason-siu.github.io/tags/sesame/</link>
       <pubDate>Sat, 16 Mar 2024 03:28:19 -0500</pubDate>
       <guid>https://jason-siu.github.io/tags/sesame/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Actionscript3</title>
-      <link>https://jason-siu.github.io/tags/actionscript3/</link>
-      <pubDate>Wed, 13 Mar 2024 16:19:57 -0500</pubDate>
-      <guid>https://jason-siu.github.io/tags/actionscript3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Flash</title>
-      <link>https://jason-siu.github.io/tags/flash/</link>
-      <pubDate>Wed, 13 Mar 2024 16:19:57 -0500</pubDate>
-      <guid>https://jason-siu.github.io/tags/flash/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reverse Engineering</title>
-      <link>https://jason-siu.github.io/tags/reverse-engineering/</link>
-      <pubDate>Wed, 13 Mar 2024 16:19:57 -0500</pubDate>
-      <guid>https://jason-siu.github.io/tags/reverse-engineering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Definitely Not Chill</title>
-      <link>https://jason-siu.github.io/tags/definitely-not-chill/</link>
-      <pubDate>Sun, 10 Mar 2024 00:38:18 -0600</pubDate>
-      <guid>https://jason-siu.github.io/tags/definitely-not-chill/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Boiler Room</title>
-      <link>https://jason-siu.github.io/tags/boiler-room/</link>
-      <pubDate>Sat, 09 Mar 2024 22:05:11 -0600</pubDate>
-      <guid>https://jason-siu.github.io/tags/boiler-room/</guid>
       <description></description>
     </item>
   </channel>
